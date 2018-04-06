@@ -1,0 +1,1 @@
+# azure-packer-image-test
