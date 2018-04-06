@@ -7,8 +7,8 @@
     "tenant_id": "105b2061-b669-4b31-92ac-24d304d195dc",
     "subscription_id": "783f1553-685c-4b16-ad1a-13ae649de268",
 
-    "managed_image_resource_group_name": "myPackerImageRP",
-    "managed_image_name": "myImage",
+    "managed_image_resource_group_name": "myPackerImageResourceGroup",
+    "managed_image_name": "myPackerImage",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
