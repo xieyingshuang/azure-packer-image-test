@@ -8,7 +8,7 @@
     "subscription_id": "783f1553-685c-4b16-ad1a-13ae649de268",
 
     "managed_image_resource_group_name": "myPackerImageResourceGroup",
-    "managed_image_name": "myPackerImage3",
+    "managed_image_name": "myPackerImage2",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
