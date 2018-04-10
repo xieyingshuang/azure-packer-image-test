@@ -3,7 +3,7 @@
     "type": "azure-arm",
     
     "managed_image_resource_group_name": "myPackerImageResourceGroup",
-    "managed_image_name": "myPackerImage3",
+    "managed_image_name": "myPackerImage4",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
