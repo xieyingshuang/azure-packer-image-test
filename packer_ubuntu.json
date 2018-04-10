@@ -1,5 +1,5 @@
 {
-    "variables": {
+  "variables": {
     "client_id": "",
     "client_secret": "",
     "subscription_id": "",
@@ -7,6 +7,11 @@
   },
   "builders": [{
     "type": "azure-arm",
+      
+    "client_id": "{{user `client_id`}}",
+    "client_secret": "{{user `client_secret`}}",
+    "subscription_id": "{{user `subscription_id`}}",
+    "tenant_id": "{{user `tenant_id`}}",
     
     "managed_image_resource_group_name": "myPackerImageResourceGroup",
     "managed_image_name": "myPackerImage4",
