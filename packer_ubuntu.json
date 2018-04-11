@@ -14,7 +14,7 @@
     "tenant_id": "{{user `tenant_id`}}",
     
     "managed_image_resource_group_name": "myPackerImageResourceGroup",
-    "managed_image_name": "myPackerImage2",
+    "managed_image_name": "myPackerImage",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
